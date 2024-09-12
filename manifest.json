@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-places-plugin",
+	"name": "Google Places Obsidian Plugin",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "See your saved places from Google in Obsidian.",
+	"author": "aingraham",
+	"authorUrl": "https://www.alexingraham.com",
+	"isDesktopOnly": false
+}
